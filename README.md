@@ -19,4 +19,4 @@ Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 
 Step 6: Write an Algorithm
 
-Step 7: Test an Algorithm
+Step 7: Test an Algorithm 
