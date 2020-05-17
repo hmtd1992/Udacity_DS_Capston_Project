@@ -21,4 +21,5 @@ Step 0: Import Dataset
 
 ## Step 7: Test an Algorithm 
 
+### Medium Link: https://medium.com/@hrishikesh.aiprojects/build-a-dog-breed-classifier-using-cnn-b47b623e86de
 
